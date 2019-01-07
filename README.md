@@ -2,6 +2,10 @@
 
 > Browser based notificable timer in JavaScript with NuxtJs. 
 
+## Demo
+
+https://yaruzo-timer-fh9omzvuo.now.sh
+
 ## Build Setup
 
 ``` bash
