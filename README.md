@@ -4,6 +4,8 @@
 
 ## Demo
 
+![demo](https://media.giphy.com/media/fMA9IvfavI2jH6NaYP/giphy.gif)
+
 https://yaruzo-timer-fh9omzvuo.now.sh
 
 ## Build Setup
